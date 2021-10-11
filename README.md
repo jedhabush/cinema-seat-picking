@@ -1,5 +1,5 @@
 # cinema-seat-Booking
-It is a mini project where you can select a movie from the drop menu and choose the seats.
+This micro mini project where you can select a movie from the drop menu and choose the seats.
 You can't choose the occupied seats 
 The price of the movie tickets and number of seats should appear at the bottom of the site
 The total price of the movie tickets should change if another movie has been selected
